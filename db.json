@@ -1,0 +1,11 @@
+{
+  "compras": [
+    {
+      "nombreProducto": "Zapatos",
+      "precioUnitario": "200",
+      "cantidad": "3",
+      "total": "600",
+      "id": 28
+    }
+  ]
+}
